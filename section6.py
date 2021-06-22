@@ -46,7 +46,7 @@ for i in fav_language.keys():
 #     print(j.title())
 
 ## remove duplicate
-# for a in set(fav_language.values()):\
+# for a in set(fav_language.values()):
 #     print(a.title())
 
 
